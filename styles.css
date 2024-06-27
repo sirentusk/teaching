@@ -10,6 +10,7 @@ h1, h2 {
 
 footer {
   text-align: center;
+  bottom: 0 auto;
 }
 
 p {
